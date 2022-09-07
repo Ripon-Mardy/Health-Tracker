@@ -1,0 +1,29 @@
+
+@media (max-width:710px) {
+    .slider-input {
+        width: 295px;
+        margin-left: -76px;
+    }
+
+    .slider-button{
+        width: 295px;
+        margin-left: -76px;
+    }
+}
+
+@media (max-width:606){
+    .col-lg-3.col-md-6.col-sm-6 {
+        width: 50%;
+       }
+}
+
+@media (max-width:436px) {
+    .slider-input {
+        margin-left: -148px;
+    }
+    .slider-button{
+        margin-left: -148px;
+    }
+
+    
+}
